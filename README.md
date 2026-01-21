@@ -1,4 +1,8 @@
 # Friction-Aware Learning System (Prototype)
+## Team Hackathon Project — LEAP
+
+This project was developed collaboratively as part of a hackathon team.  
+I was an active team member involved in the project development process.
 
 ## Description / Overview
 
